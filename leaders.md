@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+
+* [Erez Yalon](mailto://erez.yalon@owasp.org)
+* [Paulo Silva](mailto://paulo.silva@owasp.org)
+
