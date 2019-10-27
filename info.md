@@ -1,32 +1,38 @@
 ### Go Secure Coding Practices Guide Information
 
-* [Flagship Project][0]
-* [Documentation Project][1]
-* [Version 2.5.2][2]
-* [Builder][3]
-* [Breaker][4]
+[![Incubator Project][inc-proj-logo]{:height="66px"}][inc-proj]
+![Documentation Project][doc-proj-logo]
 
-### Downloads or Social Links
+[![Builders][builders-logo]][builders]
+[![Defenders][defenders-logo]][defenders]
 
-* Download: [PDF][5], [MOBI][6], [ePub][7]
+[![CC BY-SA 4.0][license-logo]{:width="175px"}][license]
+
+### Downloads
+
+* Latest [PDF], [MOBI], [ePub]
 
 ### Code Repository
 
-* [Repository][8]
-* [Issue Tracker][9]
+* [Repository][repo]
+* [Issue Tracker][issues]
 
 ### Related Projects
 
-* [OWASP Secure Coding Practices Quick Reference Guide][10]
+* [OWASP Secure Coding Practices Quick Reference Guide][owasp-scp]
 
-[0]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
-[1]: https://www.owasp.org/index.php/Category:OWASP_Document
-[2]: https://github.com/OWASP/Go-SCP/tree/v2.5.2
-[3]: https://www.owasp.org/index.php/Builders
-[4]: https://www.owasp.org/index.php/Defenders
-[5]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.pdf
-[6]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.mobi
-[7]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.epub
-[8]: https://github.com/OWASP/Go-SCP
-[9]: https://github.com/OWASP/Go-SCP/issues
-[10]: https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
+[inc-proj]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
+[inc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_level_incubator.svg?sanitize=true
+[doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
+[builders]: https://www.owasp.org/index.php/Builders
+[builders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_builders.svg?sanitize=true
+[defenders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_defenders.svg?sanitize=true
+[defenders]: https://www.owasp.org/index.php/Defenders
+[license]: http://creativecommons.org/licenses/by-sa/4.0/
+[license-logo]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
+[PDF]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.pdf
+[MOBI]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.mobi
+[ePub]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.epub
+[repo]: https://github.com/OWASP/Go-SCP
+[issues]: https://github.com/OWASP/Go-SCP/issues
+[owasp-scp]: https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
