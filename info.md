@@ -2,7 +2,7 @@
 
 * [Flagship Project][0]
 * [Documentation Project][1]
-* [Version 2.5.1][2]
+* [Version 2.5.2][2]
 * [Builder][3]
 * [Breaker][4]
 
@@ -21,7 +21,7 @@
 
 [0]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
 [1]: https://www.owasp.org/index.php/Category:OWASP_Document
-[2]: https://github.com/OWASP/Go-SCP/tree/v2.5.1
+[2]: https://github.com/OWASP/Go-SCP/tree/v2.5.2
 [3]: https://www.owasp.org/index.php/Builders
 [4]: https://www.owasp.org/index.php/Defenders
 [5]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.pdf
