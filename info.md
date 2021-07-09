@@ -1,3 +1,5 @@
+[![OWASP 20th Anniversary][owasp-20th-logo]][owasp-20th-anniversary]
+
 ### Go Secure Coding Practices Guide Information
 
 [![Incubator Project][inc-proj-logo]{:height="66px"}][inc-proj]
@@ -36,3 +38,5 @@
 [repo]: https://github.com/OWASP/Go-SCP
 [issues]: https://github.com/OWASP/Go-SCP/issues
 [owasp-scp]: https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
+[owasp-20th-logo]: assets/images/owasp-20th-anniversary.png
+[owasp-20th-anniversary]: https://20thanniversary.owasp.org/
