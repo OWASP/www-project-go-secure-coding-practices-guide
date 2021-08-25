@@ -31,7 +31,7 @@
 [defenders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_defenders.svg?sanitize=true
 [defenders]: https://www.owasp.org/index.php/Defenders
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
-[license-logo]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
+[license-logo]: assets/images/by-sa.svg
 [PDF]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.pdf
 [MOBI]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.mobi
 [ePub]: https://github.com/OWASP/Go-SCP/blob/master/dist/go-webapp-scp.epub
