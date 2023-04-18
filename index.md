@@ -52,6 +52,6 @@ Check the [How to Contribute section][3] for details on how to contribute to
 OWASP Go Secure Coding Practices Guide. 
 
 [0]: https://tour.golang.org/list
-[1]: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content
+[1]: https://owasp.org/www-project-secure-coding-practices-quick-reference-guide
 [2]: https://creativecommons.org/licenses/by-sa/4.0/
 [3]: https://github.com/OWASP/Go-SCP/blob/master/CONTRIBUTING.md
