@@ -10,7 +10,8 @@ level: 2
 license:
   - CC-BY-SA-4.0
 name: OWASP Go Secure Coding Practices Guide
-pitch: > OWSP Go Secure Coding Practices Guide helps developers avoid common
+pitch: >
+  OWSP Go Secure Coding Practices Guide helps developers avoid common
   mistakes while at the same time, learning a new programming language through
   a "hands-on approach". This book provides a good level of detail on "how to
   do it securely" showing what kind of security problems could arise during
